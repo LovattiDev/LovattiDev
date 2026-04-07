@@ -34,7 +34,7 @@
 ## 🐍 Contribuições (Snake Animation)
 
 <p align="center">
-  <img src="https://github.com/LovattiDev/LovattiDev/blob/main/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/LovattiDev/LovattiDev/main/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
