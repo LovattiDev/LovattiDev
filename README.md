@@ -8,8 +8,8 @@
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Engenharia de Software (IFES - Campus Piúma)
-💻 Focado em desenvolvimento backend com **Java + Spring Boot**
+🎓 Estudante de Engenharia de Software<br>
+💻 Focado em desenvolvimento backend com **Java + Spring Boot**<br>
 📊 Interesse em **arquitetura de software, APIs REST e sistemas escaláveis**
 
 ---
