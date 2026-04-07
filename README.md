@@ -1,7 +1,7 @@
 # ☕️ Matheus A. Lovatti
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=00F7FF&center=true&vCenter=true&width=320&lines=💻+Digital+Craftsman"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=💻+Digital+Craftsman"/>
 </p>
 
 ## 🧠 Sobre mim
