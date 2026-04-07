@@ -1,8 +1,10 @@
 # ☕️ Matheus A. Lovatti
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=💻+Digital+Craftsman"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
 </p>
+
+---
 
 ## 🧠 Sobre mim
 
@@ -37,6 +39,7 @@
     <img src="https://raw.githubusercontent.com/LovattiDev/LovattiDev/main/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ---
 
 ## 🧰 Languages and Tools
