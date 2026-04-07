@@ -31,7 +31,7 @@
 
 ---
 
-## 🐍 Contribuições (Snake Animation)
+## 🐍 Contribuições
 
 <p align="center">
   <picture>
