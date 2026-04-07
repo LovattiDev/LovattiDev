@@ -17,8 +17,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LovattiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovattiDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -34,9 +34,11 @@
 ## 🐍 Contribuições (Snake Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LovattiDev/LovattiDev/main/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LovattiDev/LovattiDev/main/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/LovattiDev/LovattiDev/main/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## 🧰 Languages and Tools
