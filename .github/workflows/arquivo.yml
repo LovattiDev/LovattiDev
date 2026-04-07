@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SEU_USERNAME/SEU_USERNAME.git repo
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/LovattiDev/LovattiDev.git repo
           cd repo
           cp ../github-contribution-grid-snake.svg .
           git add .
