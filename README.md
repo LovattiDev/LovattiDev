@@ -4,7 +4,7 @@
   <!-- Texto animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
   <!-- Sua imagem maior -->
-  <img src="https://github.com/LovattiDev/REPO/blob/main/assets/sua-foto.png?raw=true" width="200" style="border-radius:10px; box-shadow:0 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="https://github.com/LovattiDev/REPO/blob/main/assets/leonardo.webp?raw=true" width="200" style="border-radius:10px; box-shadow:0 4px 15px rgba(0,0,0,0.3);"/>
 </div>
 
 ---
