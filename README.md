@@ -1,15 +1,11 @@
 # ☕️ Matheus A. Lovatti
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721293.png" width="100"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <!-- Texto animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
+  <!-- Sua imagem maior -->
+  <img src="https://github.com/LovattiDev/REPO/blob/main/assets/sua-foto.png?raw=true" width="200" style="border-radius:10px; box-shadow:0 4px 15px rgba(0,0,0,0.3);"/>
+</div>
 
 ---
 
