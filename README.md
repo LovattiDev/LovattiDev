@@ -1,9 +1,8 @@
 # ☕️ Matheus A. Lovatti
 
 <p align="center">
-  <strong>💻 Digital Craftsman</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=💻+Digital+Craftsman"/>
 </p>
----
 
 ## 🧠 Sobre mim
 
