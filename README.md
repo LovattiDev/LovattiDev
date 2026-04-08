@@ -3,7 +3,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
   <!-- Texto animado -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 150px;">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
     <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="220" style="display:block;"/>
   </div>
