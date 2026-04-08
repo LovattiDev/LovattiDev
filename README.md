@@ -1,10 +1,16 @@
 # ☕️ Matheus A. Lovatti
 
-  <!-- Texto animado -->
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
-    <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="220"/>
-  </div>
+<table align="center" width="100%">
+  <tr>
+    <!-- Texto animado ocupa 60% da largura -->
+    <td align="center" width="60%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=+DIGITAL+CRAFTSMAN"/>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
