@@ -9,7 +9,7 @@
 
   <!-- Sua imagem maior com borda arredondada -->
   <div style="overflow: hidden; border-radius: 20px;">
-    <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="220" style="display:block;"/>
+    <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="220"/>
   </div>
 
 </div>
