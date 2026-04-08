@@ -3,9 +3,13 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
   <!-- Texto animado -->
-  <div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=+DIGITAL+CRAFTSMAN"/>
-    <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="220" style="display:block; border-radius: 20px;"/>
+  </div>
+
+  <!-- Sua imagem maior com borda arredondada -->
+  <div style="overflow: hidden; border-radius: 20px;">
+    <img src="https://github.com/LovattiDev/LovattiDev/blob/main/assets/leonardo.png?raw=true" width="220" style="display:block;"/>
   </div>
 
 </div>
